@@ -12,6 +12,10 @@ Most of my work lives in private repositories: a decade of it in banking, at two
 
 **On-device language-model platform** — originated it, shipped the automated fine-tuning MVP, and built the evaluation stack: BLEU/ROUGE/METEOR, LLM-as-judge scoring, JSON-validity checks, prompt-version tracking. A 500MB CPU-only model beat a frontier API model on latency at matched quality.
 
+**Android app for on-device model evaluation** — ran and benchmarked the small language models we trained, with a full UI, in-app model download, and on-device execution. Roughly doubled the upstream open-source codebase it started from: llama.cpp integration, templated chat, and a complete on-device benchmark suite; later extended with ARM KleidiAI/i8mm kernel optimisations.
+
+*How this was built: much of the code above was written with LLM assistance. I build agentic harnesses for a living and use them daily on my own work. The architecture, the reviews, and the judgement about what was worth building are mine; a good share of the keystrokes were not. That is what engineering looks like for me in 2026, and I would rather say so than have you assume otherwise.*
+
 ### Selected work
 
 - **Patent (inventor)** — *A Method for Creating Specialized Language Models*, application PA/2025/30389, approved for PCT international filing (2026)
