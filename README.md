@@ -23,7 +23,7 @@ Most of my work lives in private repositories: a decade of it in banking, at two
 - [**local-system-one**](https://github.com/djhoomin/local-system-one) — typed, calibrated decisions from small local models, with a routing benchmark and a distilled 19 ms encoder
 - [**bookly-agent**](https://github.com/djhoomin/bookly-agent) — a support agent where the model understands and code decides: policy as code, the clarifying question as a gate
 - [**MAL-Graph**](https://github.com/djhoomin/MAL-Graph) — an anime list as an explorable graph in Memgraph, with a React and Cytoscape UI
-- **Rehearsal Studio** (private) — an AI practice environment for business English, built with a language school in the Netherlands: actor and coach modes, trainer augmentation, GDPR by design
+- **Business-English rehearsal environment** (private) — an AI practice environment for business English, built with a language school in the Netherlands: actor and coach modes, trainer augmentation, GDPR by design
 
 ### Selected work
 
