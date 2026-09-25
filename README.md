@@ -19,7 +19,7 @@ Most of my work lives in private repositories: a decade of it in banking, at two
 ### Selected work
 
 - **Patent (inventor)** — *A Method for Creating Specialized Language Models*, application PA/2025/30389, approved for PCT international filing (2026)
-- **Talks** — Game Days AI Summit, Malmö (April 2026) · IEEE CoG (Sept 2026) · AI & Games (Nov 2026, upcoming)
+- **Talks** — Game Days AI Summit, Malmö (April 2026) · IEEE CoG 2026, industry talk accepted (Madrid)
 - **Academic** — university research collaboration with a published paper on small-language-model content generation; authored a funded industry-track PhD proposal
 
 ### Background
