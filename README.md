@@ -14,6 +14,8 @@ Most of my work lives in private repositories: a decade of it in banking, at two
 
 **Android app for on-device model evaluation** — ran and benchmarked the small language models we trained, with a full UI, in-app model download, and on-device execution. Roughly doubled the upstream open-source codebase it started from: llama.cpp integration, templated chat, and a complete on-device benchmark suite; later extended with CPU kernel optimisations.
 
+**Two product lines I originated and staffed, both still in development** — a knowledge graph for game narrative (design documents become a graph with canon and rules subgraphs, embedded in the engine; conceived 2025, validated through designer interviews before building; industry talk accepted at IEEE CoG 2026; the Rust graph database above is its store) and a generative asset vault (every generated asset embedded into a vector index, similar requests served from the corpus instead of regenerated, the same index delivering assets at runtime, so cost per asset falls as the corpus grows; MVP in build). For the vault's storage layer the team contributed upstream to [Openinary](https://github.com/openinary/openinary): [3D and audio originals](https://github.com/openinary/openinary/pull/107) and [upload content validation](https://github.com/openinary/openinary/pull/116).
+
 *How this was built: much of the code above was written with LLM assistance. I build agentic harnesses for a living and use them daily on my own work. The architecture, the reviews, and the judgement about what was worth building are mine; a good share of the keystrokes were not. That is what engineering looks like for me in 2026, and I would rather say so than have you assume otherwise.*
 
 ### On my own time
