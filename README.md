@@ -16,6 +16,15 @@ Most of my work lives in private repositories: a decade of it in banking, at two
 
 *How this was built: much of the code above was written with LLM assistance. I build agentic harnesses for a living and use them daily on my own work. The architecture, the reviews, and the judgement about what was worth building are mine; a good share of the keystrokes were not. That is what engineering looks like for me in 2026, and I would rather say so than have you assume otherwise.*
 
+### On my own time
+
+- [**jobsearch-agent**](https://github.com/djhoomin/jobsearch-agent) — a terminal app for a senior job search: public-ATS discovery, strategy scoring, grounded CV tailoring, and an ATS verifier that proves the PDF survives text extraction
+- [**first-try**](https://github.com/djhoomin/first-try) — a usability benchmark for agent-facing APIs: does an agent get it right on the first try?
+- [**local-system-one**](https://github.com/djhoomin/local-system-one) — typed, calibrated decisions from small local models, with a routing benchmark and a distilled 19 ms encoder
+- [**bookly-agent**](https://github.com/djhoomin/bookly-agent) — a support agent where the model understands and code decides: policy as code, the clarifying question as a gate
+- [**MAL-Graph**](https://github.com/djhoomin/MAL-Graph) — an anime list as an explorable graph in Memgraph, with a React and Cytoscape UI
+- **Rehearsal Studio** (private) — an AI practice environment for business English, built with a language school in the Netherlands: actor and coach modes, trainer augmentation, GDPR by design
+
 ### Selected work
 
 - **Patent (inventor)** — *A Method for Creating Specialized Language Models*, application PA/2025/30389, approved for PCT international filing (2026)
