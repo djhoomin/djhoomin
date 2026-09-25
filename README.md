@@ -37,7 +37,7 @@ A decade across all three sides of enterprise AI: buyer (First National Bank), v
 
 ### Working with
 
-`Python` `Rust` `TypeScript` `SQL` · agentic architectures · evaluation pipelines · on-device and small language models · knowledge graphs · OpenTelemetry · MLOps
+`Python` `Rust` `TypeScript` `SQL` · agentic architectures · evaluation pipelines · on-device and small language models · knowledge graphs · observability and model monitoring · MLOps
 
 ---
 
