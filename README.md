@@ -10,7 +10,7 @@ Most of my work lives in private repositories: a decade of it in banking, at two
 
 **Embeddable graph database in Rust** — ~31,000 lines, 231 commits. Library-first, broad Cypher support, graph algorithms, C FFI and Python APIs. Started as a personal project, graduated into a team project, and is now the embedded graph store inside a knowledge-graph engine for game-narrative consistency that the lab has in development.
 
-**On-device language-model platform** — originated it, shipped the automated fine-tuning MVP, and built the evaluation stack: BLEU/ROUGE/METEOR, LLM-as-judge scoring, JSON-validity checks, prompt-version tracking. A 500MB CPU-only model beat a frontier API model on latency at matched quality.
+**On-device language-model platform** — originated it, shipped the automated fine-tuning MVP, and built the evaluation stack: BLEU/ROUGE/METEOR, LLM-as-judge scoring, JSON-validity checks, prompt-version tracking. A 500MB CPU-only model beat a frontier API model on latency at matched quality. In September 2026 [Finans](https://finans.dk/tech/ECE19601152/naar-vandhanen-drypper-hjaelper-et-nyt-aivaerktoej-beboerne-uden-at-sende-data-til-usa/) reported on a Danish property administrator whose reply-drafting assistant runs on the lab's model, on a 40,000-kroner machine in their own office with a person finishing every reply, expected to save about 2,400 hours a year.
 
 **Android app for on-device model evaluation** — ran and benchmarked the small language models we trained, with a full UI, in-app model download, and on-device execution. Roughly doubled the upstream open-source codebase it started from: llama.cpp integration, templated chat, and a complete on-device benchmark suite; later extended with CPU kernel optimisations.
 
